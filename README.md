@@ -1,11 +1,19 @@
 # PI-MLOps-Ernesto
 PROYECTO INDIVIDUAL Nº1 -Machine Learning Operations (MLOps)
 
+## Objetivo
+
+
 ## Contenido
 
-- [Contexto](#contexto)
+- [Objetivo](#Objetivo)
+- [Características](#contexto)
 - [Rol a desarrollar](#rol-a-desarrollar)
 - [Trabajo Realizado](#trabajo-realizado)
+
+## Objetivo
+
+El objetivo de este proyecto es tomar la base de datos proporcionada y pasarla por diferentes etapas de limpieza y extracción necesarias para disponibilizar los datos en una API y generar un modelo de recomendación de películas basado en Machine Learning.
 
 ## Características
 
@@ -63,8 +71,4 @@ Se creó un modelo para recomendar películas a los usuarios, basándose en la s
 
 ### Deployment
 
-Se usó FastAPI para crear el API y Render para disponibilizar el Api desde en un servidor Web en el siguiente enlace [https://mlops1.onrender.com/docs](https://mlops1.onrender.com/docs)
-
-
-
-
+Se usó FastAPI para crear el API y Render para disponibilizar el Api desde en un servidor Web en el siguiente enlace [https://mlops1.onrender.com/docs](https://mlops1.onrender.com/docs) puede probar el Api desde ese enlace.
